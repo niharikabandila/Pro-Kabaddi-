@@ -1,0 +1,28 @@
+.list{
+	list-style-type: none;
+	float: right;
+}
+.list li{
+	float: left;
+	padding-top: 30px;
+	padding-right: 50px;
+}
+a:hover{
+	color: orange;
+}
+.side{
+	list-style-type: none;
+}
+.side li{
+	color: white;
+	font-size: 15px;
+}
+.show{
+	list-style-type: none;
+}
+.show li{
+	font-size: 15px;
+}
+.form-list li{
+	color: black;
+}

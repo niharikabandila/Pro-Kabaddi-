@@ -12,3 +12,13 @@ High-Octane Matches: The matches are packed with adrenaline-pumping moments, kee
 
 Live Scores and Match Information: Stay up-to-date with the latest scores and comprehensive match information on our dedicated website. The website provides a seamless experience for fans to track their favorite teams and players.
 
+## Tools
+- [ ] VsCode Editor or
+- [ ] Sublime
+
+## Languages
+- [ ] HTML
+- [ ] CSS
+
+## Interface
+![image](https://github.com/niharikabandila/Pro-Kabaddi-/assets/82656857/f9406a2e-1256-451d-8b35-9a5ad55f4202)

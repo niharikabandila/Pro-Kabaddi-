@@ -22,3 +22,6 @@ Live Scores and Match Information: Stay up-to-date with the latest scores and co
 
 ## Interface
 ![image](https://github.com/niharikabandila/Pro-Kabaddi-/assets/82656857/f9406a2e-1256-451d-8b35-9a5ad55f4202)
+![image](https://github.com/niharikabandila/Pro-Kabaddi-/assets/82656857/bfd80fb3-22da-4a4c-91be-4bc63624f738)
+![image](https://github.com/niharikabandila/Pro-Kabaddi-/assets/82656857/e8a05a15-7d5d-4d83-a6d7-9d7cdca7b683)
+
